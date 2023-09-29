@@ -1,0 +1,42 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ]
+  ],
+  "legacy_uid": "52c9ac92-3ab4-2229-7f92-2b47896586f2",
+  "instructors": {
+    "content": [
+      "e3964319-047b-6a47-a39e-14e6b94a72c6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fe31d84a-2a4b-4b8c-c386-07ff3f52264b",
+    "website": "8-284-modern-astrophysics-spring-2006"
+  },
+  "course_title": "Modern Astrophysics",
+  "course_description": "This course explores the applications of physics (Newtonian, statistical, and quantum mechanics) to fundamental processes that occur in celestial objects. The list of topics includes Main-sequence Stars, Collapsed Stars (White Dwarfs, Neutron Stars, and Black Holes), Pulsars, Supernovae, the Interstellar Medium, Galaxies, and as time permits, Active Galaxies, Quasars, and Cosmology. Observational data is also discussed.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.284",
+  "course_image_thumbnail": {
+    "content": "a0c77c28-a484-a4d8-b272-72b6e7a53c6e",
+    "website": "8-284-modern-astrophysics-spring-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "c45daca6-a946-4172-92e9-3a1dc08da59b",
+  "site_short_id": "8.284-spring-2006",
+  "title": "Course Metadata"
+}
